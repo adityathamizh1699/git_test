@@ -1,0 +1,1 @@
+I didn't use VS Code or any other text editor for this. I used `nano hello_world.txt` to ensure I increase my command line expertise.
